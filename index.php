@@ -1,2 +1,2 @@
 <?php
-echo 'Ja sam index.php';
+echo 'Proba';
